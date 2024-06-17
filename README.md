@@ -1,5 +1,5 @@
 # Basic setup for development of the burpsuite extension.
-## Presuice
+## Presuite
 - java 
 - Gradle
 ## How to work
